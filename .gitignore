@@ -1,0 +1,3 @@
+# Ignore Eclipse .settings folder
+.settings/
+/TeamA/
